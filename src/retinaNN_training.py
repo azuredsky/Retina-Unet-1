@@ -199,22 +199,4 @@ model.save_weights('./'+name_experiment+'/'+name_experiment +'_last_weights.h5',
 # score = model.evaluate(patches_imgs_test, masks_Unet(patches_masks_test), verbose=0)
 # print('Test score:', score[0])
 # print('Test accuracy:', score[1])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
